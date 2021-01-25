@@ -13,3 +13,6 @@ def multiply(x,y):
 # Perform division
 def divide(x,y):
     pass
+
+def square(x):
+	return x*x

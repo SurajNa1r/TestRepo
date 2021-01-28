@@ -1,0 +1,7 @@
+change 1
+<<<<<<< HEAD
+newline
+=======
+newline
+newline #2
+>>>>>>> 6bc31f1 (Newline #2 added in File1.txt)
